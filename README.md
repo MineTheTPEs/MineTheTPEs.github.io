@@ -4,7 +4,7 @@ MineTPE Online
 __________________________________________________________________________________________________________________________________________
 This is the Online verison of MineTPE.
 
-WASM-GC Link: https://MineTheTPEs.github.io/MineTPE-WASM.html
+WASM-GC Link: https://MineTheTPEs.github.io/
 
-MineTPE 1.3.2 Link: https://MineTheTPEs.github.io/MINETPE-v1.3.6.html
+MineTPE 1.3.6 Link: https://MineTheTPEs.github.io/MINETPE-v1.3.6.html
 _________________________________________________________________________________________________
